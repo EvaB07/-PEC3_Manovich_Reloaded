@@ -10,7 +10,7 @@ En esta actividad consiste en buscar y analizar 2 casos actuales de hibridación
 
 ## **Caso 1: Jussi Ängeslevä, GlassBox**
 
-Jussi Ängeslevä GlassBox 2002, Royal College of Art Manchester University.
+Jussi Ängeslevä *GlassBox* 2002, Royal College of Art Manchester University.
 Es un concepto de tecnología en el museo, el objetivo es dar vida al arte, con el uso de la tecnología.
 
  ![enter image description here](http://angesleva.iki.fi/content/5.design/3.glassbox/5.jpg)
